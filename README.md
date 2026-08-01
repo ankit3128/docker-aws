@@ -842,6 +842,8 @@ This helped me understand that deployment is not only about starting an applicat
 After deployment, we also need to observe whether the application is healthy.
 
 ---
+<img width="1708" height="920" alt="blured section to upload on github repo" src="https://github.com/user-attachments/assets/3769f6fd-98f7-4ee5-8dd5-cd4c99f8411f" />
+
 
 # 🚀 Complete Deployment Flow
 
